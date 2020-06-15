@@ -1,5 +1,4 @@
 import { MigrationInterface, QueryRunner, Table } from 'typeorm';
-import { query } from 'express';
 
 export default class CreateAppointment1588371524400
   implements MigrationInterface {
