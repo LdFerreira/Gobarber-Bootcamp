@@ -33,9 +33,6 @@ yarn dev:server
 - Push your branch: `git push origin my-feature`
 
 
-### :memo: License
-**GoBarber** is released under the [MIT License](./LICENSE.md).
-
 
 ---
 ### :computer: Development
