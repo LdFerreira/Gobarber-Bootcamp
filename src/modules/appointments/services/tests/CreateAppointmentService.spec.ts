@@ -1,6 +1,6 @@
 import AppError from '@shared/err/AppError';
 import CreateAppointmentService from '@modules/appointments/services/CreateAppointmentService';
-import FakeAppointmentsRepository from '../repositories/fakes/FakeAppointmentsRepository';
+import FakeAppointmentsRepository from '../../repositories/fakes/FakeAppointmentsRepository';
 
 let fakeAppointmentsRepository: FakeAppointmentsRepository;
 let createAppointment: CreateAppointmentService;
