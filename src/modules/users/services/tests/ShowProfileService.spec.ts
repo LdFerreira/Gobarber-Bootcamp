@@ -1,7 +1,7 @@
 import AppError from '@shared/err/AppError';
 
 import ShowProfileService from '@modules/users/services/ShowProfileService';
-import FakeUsersRepository from '../repositories/fakes/FakeUsersRepository';
+import FakeUsersRepository from '../../repositories/fakes/FakeUsersRepository';
 
 let fakeUsersRepository: FakeUsersRepository;
 let showProfile: ShowProfileService;
