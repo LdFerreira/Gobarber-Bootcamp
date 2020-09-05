@@ -7,4 +7,5 @@ temp/
 tmp/*
 !tmp/.gitkeep
 ormconfig.json
+dist
 .vscodeignore
